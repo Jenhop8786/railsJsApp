@@ -5,6 +5,7 @@ ruby '2.6.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.2'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
@@ -26,6 +27,12 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+
+gem 'devise', '~> 4.2'
+gem 'carrierwave', '~> 1.3', '>= 1.3.1'
+gem 'rmagick', '~> 2.16'
+gem 'mini_magick'
+
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
