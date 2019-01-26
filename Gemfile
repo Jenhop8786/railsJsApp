@@ -32,6 +32,8 @@ gem 'devise', '~> 4.2'
 gem 'carrierwave', '~> 1.3', '>= 1.3.1'
 gem 'rmagick', '~> 2.16'
 gem 'mini_magick'
+gem 'bootstrap', '~> 4.2.1'
+gem 'sassc-rails', '>= 2.0.0'
 
 
 # Use ActiveStorage variant
