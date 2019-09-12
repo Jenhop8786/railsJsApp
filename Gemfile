@@ -28,7 +28,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-gem 'devise', '~> 4.2'
+gem 'devise', '~> 4.7'
 gem 'carrierwave', '~> 1.3', '>= 1.3.1'
 gem 'rmagick', '~> 2.16'
 gem 'mini_magick'
